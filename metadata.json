@@ -1,0 +1,43 @@
+{
+  "languagePackageMetadataList": [
+    {
+      "id": "d13dc370-3c41-4f99-8e1a-663fe03fb4d8",
+      "versionId": "3573f87f-27cd-564b-a995-1b794366a6c9",
+      "version": 1,
+      "hash": "sha1-ayHnH5ho2nVyDG7mK6+jBtog74c=",
+      "uri": "https://emreerkangames.github.io/scrabblesolver/Arabic.asset",
+      "source": "github.io",
+      "iv": "LPpOGiQXrif52yrRYmj+Hg==",
+      "size": 4622080,
+      "name": "ar",
+      "displayName": "Arabic",
+      "lcid": 1
+    },
+    {
+      "id": "3841bcab-6e45-49e3-9371-911f02789fb8",
+      "versionId": "935498b8-25b7-58a4-afd0-6e600dcac3fd",
+      "version": 1,
+      "hash": "sha1-8jEVYcEOaWSkiDcYkpYSyH3qpa4=",
+      "uri": "https://emreerkangames.github.io/scrabblesolver/English.asset",
+      "source": "github.io",
+      "iv": "JCgYqLoimxPzKAKjg1ZoPw==",
+      "size": 1052608,
+      "name": "en",
+      "displayName": "English",
+      "lcid": 9
+    },
+    {
+      "id": "fcca09cc-2d57-45eb-a88d-6cdc46da8c0c",
+      "versionId": "67f0db70-ca56-59cc-aaca-26ecb09c73e1",
+      "version": 1,
+      "hash": "sha1-MFKaWJNizHpz+3ketiJ5miUaw3Q=",
+      "uri": "https://emreerkangames.github.io/scrabblesolver/Turkish.asset",
+      "source": "github.io",
+      "iv": "prXyctRDKPraO2qWvKw3ig==",
+      "size": 149488,
+      "name": "tr",
+      "displayName": "Turkish",
+      "lcid": 31
+    }
+  ]
+}
