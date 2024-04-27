@@ -11,7 +11,8 @@
       "size": 10176,
       "name": "af",
       "displayName": "Afrikaans",
-      "lcid": 54
+      "lcid": 54,
+      "wordCount": 3587
     },
     {
       "id": "044af8b1-4605-497a-9379-61df9d696eea",
@@ -24,7 +25,8 @@
       "size": 4622080,
       "name": "ar",
       "displayName": "Arabic",
-      "lcid": 1
+      "lcid": 1,
+      "wordCount": 5574899
     },
     {
       "id": "5354170f-2c89-497f-af9c-e20abf8ee41e",
@@ -37,7 +39,8 @@
       "size": 41360,
       "name": "az",
       "displayName": "Azerbaijani",
-      "lcid": 44
+      "lcid": 44,
+      "wordCount": 14141
     },
     {
       "id": "aeccb06e-9b3e-46f5-bc31-1e97c89946e2",
@@ -50,7 +53,8 @@
       "size": 12464,
       "name": "bg",
       "displayName": "Bulgarian",
-      "lcid": 2
+      "lcid": 2,
+      "wordCount": 3094
     },
     {
       "id": "5b6aae47-5135-4b08-b099-7ad2eb06d598",
@@ -63,7 +67,8 @@
       "size": 10272,
       "name": "ca",
       "displayName": "Catalan",
-      "lcid": 3
+      "lcid": 3,
+      "wordCount": 3473
     },
     {
       "id": "8ed6daa0-f256-4b6f-89be-b17fc3d0ba0a",
@@ -76,7 +81,8 @@
       "size": 11632,
       "name": "hr",
       "displayName": "Croatian",
-      "lcid": 26
+      "lcid": 26,
+      "wordCount": 3756
     },
     {
       "id": "487ce8e5-508a-4044-b827-9d6924306e74",
@@ -89,7 +95,8 @@
       "size": 980912,
       "name": "cs",
       "displayName": "Czech",
-      "lcid": 5
+      "lcid": 5,
+      "wordCount": 534876
     },
     {
       "id": "bcc6cd99-a683-4df2-979c-e0ea133093e6",
@@ -102,7 +109,8 @@
       "size": 4371536,
       "name": "da",
       "displayName": "Danish",
-      "lcid": 6
+      "lcid": 6,
+      "wordCount": 1744871
     },
     {
       "id": "98eff5a4-a497-4826-954f-c1cbdfa2d517",
@@ -115,7 +123,8 @@
       "size": 461248,
       "name": "nl",
       "displayName": "Dutch",
-      "lcid": 19
+      "lcid": 19,
+      "wordCount": 148334
     },
     {
       "id": "09dce9da-28f5-4baa-b96b-91f90fcb2cd6",
@@ -128,7 +137,8 @@
       "size": 1052608,
       "name": "en",
       "displayName": "English",
-      "lcid": 9
+      "lcid": 9,
+      "wordCount": 416257
     },
     {
       "id": "e199f329-49e1-4cca-9970-1bfe478a2205",
@@ -141,7 +151,8 @@
       "size": 11440,
       "name": "et",
       "displayName": "Estonian",
-      "lcid": 37
+      "lcid": 37,
+      "wordCount": 3762
     },
     {
       "id": "2d63e359-f739-4672-9be6-5004b56c9385",
@@ -154,7 +165,8 @@
       "size": 284224,
       "name": "fi",
       "displayName": "Finnish",
-      "lcid": 11
+      "lcid": 11,
+      "wordCount": 91564
     },
     {
       "id": "fecbefe5-7719-4254-9171-092f7f4de02c",
@@ -167,7 +179,8 @@
       "size": 621808,
       "name": "fr",
       "displayName": "French",
-      "lcid": 12
+      "lcid": 12,
+      "wordCount": 331781
     },
     {
       "id": "9a0b82d1-87bc-4b57-adb7-b872e0215e5c",
@@ -180,7 +193,8 @@
       "size": 4144768,
       "name": "de",
       "displayName": "German",
-      "lcid": 7
+      "lcid": 7,
+      "wordCount": 1676099
     },
     {
       "id": "a105a798-c976-4483-8250-bb9fcc1249d9",
@@ -193,7 +207,8 @@
       "size": 4672,
       "name": "ha",
       "displayName": "Hausa",
-      "lcid": 104
+      "lcid": 104,
+      "wordCount": 1889
     },
     {
       "id": "c2ae259f-11f4-4a87-a387-d9f7df138287",
@@ -206,7 +221,8 @@
       "size": 2496,
       "name": "haw",
       "displayName": "Hawaiian",
-      "lcid": 117
+      "lcid": 117,
+      "wordCount": 990
     },
     {
       "id": "50ca0a8a-99a5-4920-876f-2997a643db46",
@@ -219,7 +235,8 @@
       "size": 318448,
       "name": "he",
       "displayName": "Hebrew",
-      "lcid": 13
+      "lcid": 13,
+      "wordCount": 223978
     },
     {
       "id": "87a4c075-ee86-4f8a-94c0-18968cd0d1d1",
@@ -232,7 +249,8 @@
       "size": 38896,
       "name": "hu",
       "displayName": "Hungarian",
-      "lcid": 14
+      "lcid": 14,
+      "wordCount": 14128
     },
     {
       "id": "6f860ac4-3fc9-47e8-85de-ba0b7430d075",
@@ -245,7 +263,8 @@
       "size": 11312,
       "name": "is",
       "displayName": "Icelandic",
-      "lcid": 15
+      "lcid": 15,
+      "wordCount": 4810
     },
     {
       "id": "8c16f719-647c-4981-be14-944b839fc67f",
@@ -258,7 +277,8 @@
       "size": 64432,
       "name": "id",
       "displayName": "Indonesian",
-      "lcid": 33
+      "lcid": 33,
+      "wordCount": 29755
     },
     {
       "id": "62566e41-9df1-44e4-ac03-d6fc24457cc7",
@@ -271,7 +291,8 @@
       "size": 10352,
       "name": "ga",
       "displayName": "Irish",
-      "lcid": 60
+      "lcid": 60,
+      "wordCount": 3232
     },
     {
       "id": "41294bd0-ff1a-414a-b4eb-c1b1d8af0cc9",
@@ -284,7 +305,8 @@
       "size": 1096064,
       "name": "it",
       "displayName": "Italian",
-      "lcid": 16
+      "lcid": 16,
+      "wordCount": 658471
     },
     {
       "id": "1ac113a4-fb15-4e64-8777-76c258ad6ce9",
@@ -297,7 +319,8 @@
       "size": 892032,
       "name": "lv",
       "displayName": "Latvian",
-      "lcid": 38
+      "lcid": 38,
+      "wordCount": 303690
     },
     {
       "id": "91ebeca7-b86c-4bba-8adc-7340bf0eacb8",
@@ -310,7 +333,8 @@
       "size": 219264,
       "name": "lt",
       "displayName": "Lithuanian",
-      "lcid": 39
+      "lcid": 39,
+      "wordCount": 82582
     },
     {
       "id": "91d40aea-4623-4cdb-aa16-09a74f04d4be",
@@ -323,7 +347,8 @@
       "size": 2544,
       "name": "ms",
       "displayName": "Malay",
-      "lcid": 62
+      "lcid": 62,
+      "wordCount": 839
     },
     {
       "id": "16b135b6-2396-4242-bfc1-61f802ae25ac",
@@ -336,7 +361,8 @@
       "size": 530832,
       "name": "no",
       "displayName": "Norwegian",
-      "lcid": 20
+      "lcid": 20,
+      "wordCount": 183601
     },
     {
       "id": "a49064ff-fa62-4a32-b070-c86ca6db6581",
@@ -349,7 +375,8 @@
       "size": 2142240,
       "name": "fa",
       "displayName": "Persian",
-      "lcid": 41
+      "lcid": 41,
+      "wordCount": 848121
     },
     {
       "id": "bc42c9bf-d85d-4846-8236-8f4be93081a1",
@@ -362,7 +389,8 @@
       "size": 7202480,
       "name": "pl",
       "displayName": "Polish",
-      "lcid": 21
+      "lcid": 21,
+      "wordCount": 4063219
     },
     {
       "id": "dd08c3a0-a53c-4a3a-9630-fb0754f478cb",
@@ -375,7 +403,8 @@
       "size": 1028320,
       "name": "pt",
       "displayName": "Portuguese",
-      "lcid": 22
+      "lcid": 22,
+      "wordCount": 513338
     },
     {
       "id": "c4c1a330-8eea-4e16-a8db-c6fe93dc7dc5",
@@ -388,7 +417,8 @@
       "size": 585840,
       "name": "ro",
       "displayName": "Romanian",
-      "lcid": 24
+      "lcid": 24,
+      "wordCount": 270481
     },
     {
       "id": "5b6c92ab-20e0-44a3-b145-fefee38b4165",
@@ -401,7 +431,8 @@
       "size": 472304,
       "name": "ru",
       "displayName": "Russian",
-      "lcid": 25
+      "lcid": 25,
+      "wordCount": 167117
     },
     {
       "id": "e2568645-fd22-40b8-8d6d-552ecdf6e5e5",
@@ -414,7 +445,8 @@
       "size": 3871632,
       "name": "sk",
       "displayName": "Slovak",
-      "lcid": 27
+      "lcid": 27,
+      "wordCount": 1744054
     },
     {
       "id": "a894db98-bd3d-4d0d-9097-47a3e9c6382a",
@@ -427,7 +459,8 @@
       "size": 889616,
       "name": "sl",
       "displayName": "Slovenian",
-      "lcid": 36
+      "lcid": 36,
+      "wordCount": 343070
     },
     {
       "id": "1f8555cd-d331-490d-87fc-7f0304ae1115",
@@ -440,7 +473,8 @@
       "size": 992672,
       "name": "es",
       "displayName": "Spanish",
-      "lcid": 10
+      "lcid": 10,
+      "wordCount": 636597
     },
     {
       "id": "a51e2597-7f28-4f17-8956-3b1df81feed6",
@@ -453,7 +487,8 @@
       "size": 754960,
       "name": "sv",
       "displayName": "Swedish",
-      "lcid": 29
+      "lcid": 29,
+      "wordCount": 399649
     },
     {
       "id": "cb64b99b-6f09-4f9c-8c10-e4704413c0fb",
@@ -466,7 +501,8 @@
       "size": 149488,
       "name": "tr",
       "displayName": "Turkish",
-      "lcid": 31
+      "lcid": 31,
+      "wordCount": 60412
     },
     {
       "id": "fb4b112d-ce70-44ac-a3a7-b8d0d08568ab",
@@ -479,7 +515,8 @@
       "size": 9584,
       "name": "cy",
       "displayName": "Welsh",
-      "lcid": 82
+      "lcid": 82,
+      "wordCount": 3350
     }
   ]
 }
